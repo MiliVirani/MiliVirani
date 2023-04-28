@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mili Virani</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii%2C+It's+Mili+Virani.+Nice+to+Meet+Ya!!" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii%2C+It's+Mili+Virani.+Nice+to+Meet+Ya!!" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [PrivateProject](project.link)
 
