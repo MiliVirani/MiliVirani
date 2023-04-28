@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [collaborateOn](project.link)
 
-- 🤝 I’m looking for help with [GoodExperience](project.link)
+- 🤝 I’m looking for help with [GoodExperience like myself😛](project.link)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiliVirani?tab=repositories](https://github.com/MiliVirani?tab=repositories)
 
